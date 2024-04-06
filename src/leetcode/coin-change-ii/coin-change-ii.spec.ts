@@ -12,9 +12,6 @@ const fixtures: Array<Fixture> = [
   { input: { amount: 10, coins: [10] }, output: 1 },
 ];
 
-test('ROOT TEST PORRA', () => {
-  expect(1).toBe(1);
-});
 describe('Coin Change II', () => {
   describe('Depth First Search (DFS)', () => {
     fixtures.forEach((fixture) => {
