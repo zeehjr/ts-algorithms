@@ -1,0 +1,158 @@
+[
+  {
+    "ancestorTitles": [
+      "Coin Change II",
+      "Dynamic Programming (DP)"
+    ],
+    "duration": 1,
+    "failureDetails": [
+      {
+        "matcherResult": {
+          "actual": -1,
+          "expected": 1,
+          "message": "\u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m1\u001b[39m\nReceived: \u001b[31m-1\u001b[39m",
+          "name": "toBe",
+          "pass": false
+        }
+      }
+    ],
+    "failureMessages": [
+      "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m1\u001b[39m\nReceived: \u001b[31m-1\u001b[39m\n    at Object.<anonymous> (/home/zeeh/projects/studies/ts-algorithms/src/leetcode/coin-change-ii/coin-change-ii.spec.ts:19:93)\n    at Promise.then.completed (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/utils.js:298:28)\n    at new Promise (<anonymous>)\n    at callAsyncCircusFn (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/utils.js:231:10)\n    at _callCircusTest (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:316:40)\n    at _runTest (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:252:3)\n    at _runTestsForDescribeBlock (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:126:9)\n    at _runTestsForDescribeBlock (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:121:9)\n    at _runTestsForDescribeBlock (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:121:9)\n    at run (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:71:3)\n    at runAndTransformResultsToJestFormat (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:122:21)\n    at jestAdapter (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:79:19)\n    at runTestInternal (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-runner@29.7.0/node_modules/jest-runner/build/runTest.js:367:16)\n    at runTest (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-runner@29.7.0/node_modules/jest-runner/build/runTest.js:444:34)"
+    ],
+    "fullName": "Coin Change II Dynamic Programming (DP) Input: amount = 10, coins = [10]. Output: 1",
+    "invocations": 1,
+    "location": null,
+    "numPassingAsserts": 0,
+    "retryReasons": [],
+    "status": "failed",
+    "title": "Input: amount = 10, coins = [10]. Output: 1"
+  },
+  {
+    "ancestorTitles": [
+      "Coin Change II",
+      "Dynamic Programming (DP)"
+    ],
+    "duration": 0,
+    "failureDetails": [
+      {
+        "matcherResult": {
+          "actual": -1,
+          "expected": 0,
+          "message": "\u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m0\u001b[39m\nReceived: \u001b[31m-1\u001b[39m",
+          "name": "toBe",
+          "pass": false
+        }
+      }
+    ],
+    "failureMessages": [
+      "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m0\u001b[39m\nReceived: \u001b[31m-1\u001b[39m\n    at Object.<anonymous> (/home/zeeh/projects/studies/ts-algorithms/src/leetcode/coin-change-ii/coin-change-ii.spec.ts:19:93)\n    at Promise.then.completed (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/utils.js:298:28)\n    at new Promise (<anonymous>)\n    at callAsyncCircusFn (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/utils.js:231:10)\n    at _callCircusTest (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:316:40)\n    at _runTest (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:252:3)\n    at _runTestsForDescribeBlock (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:126:9)\n    at _runTestsForDescribeBlock (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:121:9)\n    at _runTestsForDescribeBlock (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:121:9)\n    at run (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:71:3)\n    at runAndTransformResultsToJestFormat (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:122:21)\n    at jestAdapter (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:79:19)\n    at runTestInternal (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-runner@29.7.0/node_modules/jest-runner/build/runTest.js:367:16)\n    at runTest (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-runner@29.7.0/node_modules/jest-runner/build/runTest.js:444:34)"
+    ],
+    "fullName": "Coin Change II Dynamic Programming (DP) Input: amount = 3, coins = [2]. Output: 0",
+    "invocations": 1,
+    "location": null,
+    "numPassingAsserts": 0,
+    "retryReasons": [],
+    "status": "failed",
+    "title": "Input: amount = 3, coins = [2]. Output: 0"
+  },
+  {
+    "ancestorTitles": [
+      "Coin Change II",
+      "Dynamic Programming (DP)"
+    ],
+    "duration": 1,
+    "failureDetails": [
+      {
+        "matcherResult": {
+          "actual": -1,
+          "expected": 4,
+          "message": "\u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m4\u001b[39m\nReceived: \u001b[31m-1\u001b[39m",
+          "name": "toBe",
+          "pass": false
+        }
+      }
+    ],
+    "failureMessages": [
+      "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m4\u001b[39m\nReceived: \u001b[31m-1\u001b[39m\n    at Object.<anonymous> (/home/zeeh/projects/studies/ts-algorithms/src/leetcode/coin-change-ii/coin-change-ii.spec.ts:19:93)\n    at Promise.then.completed (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/utils.js:298:28)\n    at new Promise (<anonymous>)\n    at callAsyncCircusFn (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/utils.js:231:10)\n    at _callCircusTest (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:316:40)\n    at _runTest (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:252:3)\n    at _runTestsForDescribeBlock (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:126:9)\n    at _runTestsForDescribeBlock (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:121:9)\n    at _runTestsForDescribeBlock (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:121:9)\n    at run (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:71:3)\n    at runAndTransformResultsToJestFormat (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:122:21)\n    at jestAdapter (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:79:19)\n    at runTestInternal (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-runner@29.7.0/node_modules/jest-runner/build/runTest.js:367:16)\n    at runTest (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-runner@29.7.0/node_modules/jest-runner/build/runTest.js:444:34)"
+    ],
+    "fullName": "Coin Change II Dynamic Programming (DP) Input: amount = 5, coins = [1,2,5]. Output: 4",
+    "invocations": 1,
+    "location": null,
+    "numPassingAsserts": 0,
+    "retryReasons": [],
+    "status": "failed",
+    "title": "Input: amount = 5, coins = [1,2,5]. Output: 4"
+  },
+  {
+    "ancestorTitles": [
+      "Coin Change II",
+      "Depth First Search (DFS)"
+    ],
+    "duration": 0,
+    "failureDetails": [
+      {
+        "matcherResult": {
+          "actual": 0,
+          "expected": 1,
+          "message": "\u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m1\u001b[39m\nReceived: \u001b[31m0\u001b[39m",
+          "name": "toBe",
+          "pass": false
+        }
+      }
+    ],
+    "failureMessages": [
+      "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m1\u001b[39m\nReceived: \u001b[31m0\u001b[39m\n    at Object.<anonymous> (/home/zeeh/projects/studies/ts-algorithms/src/leetcode/coin-change-ii/coin-change-ii.spec.ts:12:90)\n    at Promise.then.completed (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/utils.js:298:28)\n    at new Promise (<anonymous>)\n    at callAsyncCircusFn (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/utils.js:231:10)\n    at _callCircusTest (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:316:40)\n    at _runTest (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:252:3)\n    at _runTestsForDescribeBlock (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:126:9)\n    at _runTestsForDescribeBlock (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:121:9)\n    at _runTestsForDescribeBlock (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:121:9)\n    at run (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:71:3)\n    at runAndTransformResultsToJestFormat (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:122:21)\n    at jestAdapter (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:79:19)\n    at runTestInternal (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-runner@29.7.0/node_modules/jest-runner/build/runTest.js:367:16)\n    at runTest (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-runner@29.7.0/node_modules/jest-runner/build/runTest.js:444:34)"
+    ],
+    "fullName": "Coin Change II Depth First Search (DFS) Input: amount = 10, coins = [10]. Output: 1",
+    "invocations": 1,
+    "location": null,
+    "numPassingAsserts": 0,
+    "retryReasons": [],
+    "status": "failed",
+    "title": "Input: amount = 10, coins = [10]. Output: 1"
+  },
+  {
+    "ancestorTitles": [
+      "Coin Change II",
+      "Depth First Search (DFS)"
+    ],
+    "duration": 1,
+    "failureDetails": [],
+    "failureMessages": [],
+    "fullName": "Coin Change II Depth First Search (DFS) Input: amount = 3, coins = [2]. Output: 0",
+    "invocations": 1,
+    "location": null,
+    "numPassingAsserts": 1,
+    "retryReasons": [],
+    "status": "passed",
+    "title": "Input: amount = 3, coins = [2]. Output: 0"
+  },
+  {
+    "ancestorTitles": [
+      "Coin Change II",
+      "Depth First Search (DFS)"
+    ],
+    "duration": 2,
+    "failureDetails": [
+      {
+        "matcherResult": {
+          "actual": 0,
+          "expected": 4,
+          "message": "\u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m4\u001b[39m\nReceived: \u001b[31m0\u001b[39m",
+          "name": "toBe",
+          "pass": false
+        }
+      }
+    ],
+    "failureMessages": [
+      "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m4\u001b[39m\nReceived: \u001b[31m0\u001b[39m\n    at Object.<anonymous> (/home/zeeh/projects/studies/ts-algorithms/src/leetcode/coin-change-ii/coin-change-ii.spec.ts:12:90)\n    at Promise.then.completed (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/utils.js:298:28)\n    at new Promise (<anonymous>)\n    at callAsyncCircusFn (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/utils.js:231:10)\n    at _callCircusTest (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:316:40)\n    at _runTest (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:252:3)\n    at _runTestsForDescribeBlock (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:126:9)\n    at _runTestsForDescribeBlock (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:121:9)\n    at _runTestsForDescribeBlock (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:121:9)\n    at run (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/run.js:71:3)\n    at runAndTransformResultsToJestFormat (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:122:21)\n    at jestAdapter (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-circus@29.7.0/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:79:19)\n    at runTestInternal (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-runner@29.7.0/node_modules/jest-runner/build/runTest.js:367:16)\n    at runTest (/home/zeeh/projects/studies/ts-algorithms/node_modules/.pnpm/jest-runner@29.7.0/node_modules/jest-runner/build/runTest.js:444:34)"
+    ],
+    "fullName": "Coin Change II Depth First Search (DFS) Input: amount = 5, coins = [1,2,5]. Output: 4",
+    "invocations": 1,
+    "location": null,
+    "numPassingAsserts": 0,
+    "retryReasons": [],
+    "status": "failed",
+    "title": "Input: amount = 5, coins = [1,2,5]. Output: 4"
+  }
+]
